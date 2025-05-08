@@ -1,0 +1,6 @@
+take inspo from roadmap.sh 
+people should have a roadmap to make projects  - more projects addition 
+community building 
+fintech engineering roadmap 
+data engineering roadmap
+more roadmaps

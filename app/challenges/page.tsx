@@ -1,0 +1,12 @@
+'use client';
+
+export default function ChallengesPage() {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-gray-50">
+      <div className="text-center p-8">
+        <h1 className="text-4xl font-bold text-gray-900 mb-4">Coming Soon</h1>
+        <p className="text-xl text-gray-600">Stay tuned for exciting coding challenges!</p>
+      </div>
+    </div>
+  );
+}
