@@ -102,10 +102,12 @@ This project uses the following technologies:
 
 ## 📦 **Installation & Setup**
 
-To set up **Uptrail** locally, follow these steps:
+To set up **Uptrail** locally, follow these steps: (setup .env also)
 
 ### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/uptrail.git
 cd uptrail
+yarn install
+yarn run dev
